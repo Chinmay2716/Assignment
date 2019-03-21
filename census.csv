@@ -1,0 +1,304 @@
+ID,CITY,POPULATION,STATE
+1.0,Mumbai,12442373,Maharashtra
+2.0,Delhi,11034555,Delhi
+3.0,Bangalore,8443675,Karnataka
+4.0,Hyderabad,6993262,Telangana
+5.0,Ahmedabad,5577940,Gujarat
+6.0,Chennai,4646732,Tamil Nadu
+7.0,Kolkata,4496694,West Bengal
+8.0,Surat,4467797,Gujarat
+9.0,Pune,3124458,Maharashtra
+10.0,Jaipur,3046163,Rajasthan
+11.0,Lucknow,2817105,Uttar Pradesh
+12.0,Kanpur,2765348,Uttar Pradesh
+13.0,Nagpur,2405665,Maharashtra
+14.0,Visakhapatnam,2035922,Andhra Pradesh
+15.0,Indore,1960631,Madhya Pradesh
+16.0,Thane,1818872,Maharashtra
+17.0,Bhopal,1798218,Madhya Pradesh
+18.0,Pimpri-Chinchwad,1729359,Maharashtra
+19.0,Patna,1683200,Bihar
+20.0,Vadodara,1666703,Gujarat
+21.0,Ghaziabad,1636068,Uttar Pradesh
+22.0,Ludhiana,1613878,Punjab
+23.0,Coimbatore,1601438,Tamil Nadu
+24.0,Agra,1585704,Uttar Pradesh
+25.0,Madurai,1561129,Tamil Nadu
+26.0,Nashik,1486973,Maharashtra
+27.0,Faridabad,1404653,Haryana
+28.0,Meerut,1309023,Uttar Pradesh
+29.0,Rajkot,1286995,Gujarat
+30.0,Kalyan-Dombivali,1246381,Maharashtra
+31.0,Vasai-Virar,1221233,Maharashtra
+32.0,Varanasi,1201815,Uttar Pradesh
+33.0,Srinagar,1192792,Jammu and Kashmir
+34.0,Aurangabad,1171330,Maharashtra
+35.0,Dhanbad,1161561,Jharkhand
+36.0,Amritsar,1132761,Punjab
+37.0,Navi Mumbai,1119477,Maharashtra
+38.0,Allahabad,1117094,Uttar Pradesh
+39.0,Ranchi,1073440,Jharkhand
+40.0,Howrah,1072161,West Bengal
+41.0,Jabalpur,1054336,Madhya Pradesh
+42.0,Gwalior,1053505,Madhya Pradesh
+43.0,Vijayawada,1034358,Andhra Pradesh
+44.0,Jodhpur,1033918,Rajasthan
+45.0,Raipur,1010087,Chhattisgarh
+46.0,Kota,1001694,Rajasthan
+47.0,Guwahati,963429,Assam
+48.0,Chandigarh,960787,Chandigarh
+49.0,Solapur,951118,Maharashtra
+50.0,Hubballi-Dharwad,943857,Karnataka
+51.0,Tiruchirappalli,916674,Tamil Nadu
+52.0,Bareilly,898167,Uttar Pradesh
+53.0,Mysore,887446,Karnataka
+54.0,Tiruppur,877778,Tamilnadu
+55.0,Gurgaon,876824,Haryana
+56.0,Aligarh,872575,Uttar Pradesh
+57.0,Jalandhar,862196,Punjab
+58.0,Bhubaneswar,837737,Odisha
+59.0,Salem,831038,Tamil Nadu
+60.0,Mira-Bhayandar,814655,Maharashtra
+61.0,Warangal,811844,Telangana
+62.0,Thiruvananthapuram,752490,Kerala
+63.0,Guntur,743354,Andhra Pradesh
+64.0,Bhiwandi,711329,Maharashtra
+65.0,Saharanpur,703345,Uttar Pradesh
+66.0,Gorakhpur,671048,Uttar Pradesh
+67.0,Bikaner,647804,Rajasthan
+68.0,Amravati,646801,Maharashtra
+69.0,Noida,642381,Uttar Pradesh
+70.0,Jamshedpur,631364,Jharkhand
+71.0,Bhilai,625697,Chhattisgarh
+72.0,Cuttack,606007,Odisha
+73.0,Firozabad,603797,Uttar Pradesh
+74.0,Kochi,601574,Kerala
+75.0,Nellore,600869,Andhra Pradesh
+76.0,Bhavnagar,593768,Gujarat
+77.0,Dehradun,578420,Uttarakhand
+78.0,Durgapur,566937,West Bengal
+79.0,Asansol,564491,West Bengal
+80.0,Rourkela,552734,Odisha
+81.0,Nanded,550564,Maharashtra
+82.0,Kolhapur,549283,Maharashtra
+83.0,Ajmer,542580,Rajasthan
+84.0,Akola,537149,Maharashtra
+85.0,Gulbarga,532031,Karnataka
+86.0,Jamnagar,529308,Gujarat
+87.0,Ujjain,515215,Madhya Pradesh
+88.0,Loni,512296,Uttar Pradesh
+89.0,Siliguri,509709,West Bengal
+90.0,Jhansi,507293,Uttar Pradesh
+91.0,Ulhasnagar,506937,Maharashtra
+92.0,Jammu,503690,Jammu and Kashmir
+93.0,Sangli-Miraj & Kupwad,502697,Maharashtra
+94.0,Mangalore,499486,Karnataka
+95.0,Erode,498129,Tamil Nadu
+96.0,Belgaum,488292,Karnataka
+97.0,Ambattur,478134,Tamil Nadu
+98.0,Tirunelveli,473637,Tamil Nadu
+99.0,Malegaon,471006,Maharashtra
+100.0,Gaya,463454,Bihar
+101.0,Jalgaon,460468,Maharashtra
+102.0,Udaipur,451735,Rajasthan
+103.0,Maheshtala,449423,West Bengal
+104.0,Davanagere,435128,Karnataka
+105.0,Kozhikode,432097,Kerala
+106.0,Kurnool,430214,Andhra Pradesh
+107.0,Rajpur Sonarpur,423806,West Bengal
+108.0,Rajahmundry,419818,Andhra Pradesh
+109.0,Bokaro,413934,Jharkhand
+110.0,South Dumdum,410524,West Bengal
+111.0,Bellary,409644,Karnataka
+112.0,Patiala,405164,Punjab
+113.0,Gopalpur,404991,West Bengal
+114.0,Agartala,399688,Tripura
+115.0,Bhagalpur,398138,Bihar
+116.0,Muzaffarnagar,392451,Uttar Pradesh
+117.0,Bhatpara,390467,West Bengal
+118.0,Panihati,383522,West Bengal
+119.0,Latur,382754,Maharashtra
+120.0,Dhule,376093,Maharashtra
+121.0,Tirupati,374260,Andhra Pradesh
+122.0,Rohtak,373133,Haryana
+123.0,Korba,363210,Chhattisgarh
+124.0,Bhilwara,360009,Rajasthan
+125.0,Berhampur,355823,Odisha
+126.0,Muzaffarpur,351838,Bihar
+127.0,Ahmednagar,350905,Maharashtra
+128.0,Mathura,349336,Uttar Pradesh
+129.0,Kollam,349033,Kerala
+130.0,Avadi,344701,Tamil Nadu
+131.0,Kadapa,343054,Andhra Pradesh
+132.0,Kamarhati,336579,West Bengal
+133.0,Sambalpur,335761,Odisha
+134.0,Bilaspur,330106,Chhattisgarh
+135.0,Shahjahanpur,327975,Uttar Pradesh
+136.0,Satara,326789,Maharashtra
+137.0,Bijapur,326360,Karnataka
+138.0,Rampur,325248,Uttar Pradesh
+139.0,Shivamogga,322428,Karnataka
+140.0,Chandrapur,321036,Maharashtra
+141.0,Junagadh,320250,Gujarat
+142.0,Thrissur,315596,Kerala
+143.0,Alwar,315310,Rajasthan
+144.0,Bardhaman,314638,West Bengal
+145.0,Kulti,313977,West Bengal
+146.0,Kakinada,325985,Andhra Pradesh
+147.0,Nizamabad,310467,Telangana
+148.0,Parbhani,307191,Maharashtra
+149.0,Tumkur,305821,Karnataka
+150.0,Khammam,305000,Telangana
+151.0,Ozhukarai,300028,Puducherry
+152.0,Bihar Sharif,296889,Bihar
+153.0,Panipat,294150,Haryana
+154.0,Darbhanga,294116,Bihar
+155.0,Bally,291972,West Bengal
+156.0,Aizawl,291822,Mizoram
+157.0,Dewas,289438,Madhya Pradesh
+158.0,Ichalkaranji,287570,Maharashtra
+159.0,Karnal,286974,Haryana
+160.0,Bathinda,285813,Punjab
+161.0,Jalna,285349,Maharashtra
+162.0,Eluru,283648,Andhra Pradesh
+163.0,Kirari Suleman Nagar,282598,Delhi
+164.0,Barasat,283443,West Bengal
+165.0,Purnia,280547,Bihar
+166.0,Satna,280248,Madhya Pradesh
+167.0,Mau,279060,Uttar Pradesh
+168.0,Sonipat,277053,Haryana
+169.0,Farrukhabad,275750,Uttar Pradesh
+170.0,Sagar,273357,Madhya Pradesh
+171.0,Rourkela,273217,Odisha
+172.0,Durg,268679,Chhattisgarh
+173.0,Imphal,264986,Manipur
+174.0,Ratlam,264810,Madhya Pradesh
+175.0,Hapur,262801,Uttar Pradesh
+176.0,Arrah,261099,Bihar
+177.0,Karimnagar,260899,Telangana
+178.0,Anantapur,261004,Andhra Pradesh
+179.0,Etawah,256838,Uttar Pradesh
+180.0,Ambernath,254003,Maharashtra
+181.0,North Dumdum,253625,West Bengal
+182.0,Bharatpur,252109,Rajasthan
+183.0,Begusarai,251136,Bihar
+184.0,New Delhi,249998,Delhi
+185.0,Gandhidham,248705,Gujarat
+186.0,Baranagar,248466,West Bengal
+187.0,Tiruvottiyur,248059,Tamil Nadu
+188.0,Pondicherry,241773,Puducherry
+189.0,Sikar,237579,Rajasthan
+190.0,Thoothukudi,237374,Tamil Nadu
+191.0,Rewa,235422,Madhya Pradesh
+192.0,Mirzapur,233691,Uttar Pradesh
+193.0,Raichur,232456,Karnataka
+194.0,Pali,229956,Rajasthan
+195.0,Ramagundam,229644,Telangana
+196.0,Haridwar,228832,Uttarakhand
+197.0,Vijayanagaram,228025,Andhra Pradesh
+198.0,Katihar,225982,Bihar
+199.0,Nagercoil,224849,Tamil Nadu
+200.0,Sri Ganganagar,224773,Rajasthan
+201.0,Karawal Nagar,224666,Delhi
+202.0,Mango,223805,Jharkhand
+203.0,Thanjavur,222943,Tamil Nadu
+204.0,Bulandshahr,222519,Uttar Pradesh
+205.0,Uluberia,222240,West Bengal
+206.0,Murwara,221883,Uttar Pradesh
+207.0,Sambhal,220813,Uttar Pradesh
+208.0,Singrauli,220257,Madhya Pradesh
+209.0,Nadiad,218095,Gujarat
+210.0,Secunderabad,217910,Telangana
+211.0,Naihati,217900,West Bengal
+212.0,Yamunanagar,216677,Haryana
+213.0,Bidhan Nagar,215514,West Bengal
+214.0,Pallavaram,215417,Tamil Nadu
+215.0,Bidar,214373,Karnataka
+216.0,Munger,213303,Bihar
+217.0,Panchkula,211355,Haryana
+218.0,Burhanpur,210886,Madhya Pradesh
+219.0,Raurkela Industrial Township,210317,Odisha
+220.0,Kharagpur,207604,West Bengal
+221.0,Dindigul,207327,Tamil Nadu
+222.0,Gandhinagar,206167,Gujarat
+223.0,Hospet,206167,Karnataka
+224.0,Nangloi Jat,205596,Delhi
+225.0,English Bazar,205521,West Bengal
+226.0,Ongole,204746,Andhra Pradesh
+227.0,Deoghar,203123,Jharkhand
+228.0,Chapra,202352,Bihar
+229.0,Haldia,200827,West Bengal
+230.0,Khandwa,200738,Madhya Pradesh
+231.0,Nandyal,200516,Andhra Pradesh
+232.0,Chittoor,189332,Andhra Pradesh
+233.0,Morena,200482,Madhya Pradesh
+234.0,Amroha,198471,Uttar Pradesh
+235.0,Anand,198282,Gujarat
+236.0,Bhind,197585,Madhya Pradesh
+237.0,Bhalswa Jahangir Pur,197148,Delhi
+238.0,Madhyamgram,196127,West Bengal
+239.0,Bhiwani,196057,Haryana
+240.0,Navi Mumbai,195373,Maharashtra
+241.0,Baharampur,195223,West Bengal
+242.0,Ambala,195153,Haryana
+243.0,Morbi,194947,Gujarat
+244.0,Fatehpur,193193,Uttar Pradesh
+245.0,Rae Bareli,191316,Uttar Pradesh
+246.0,Mahaboobnagar,190400,Telangana
+247.0,Bhusawal,187421,Maharashtra
+248.0,Orai,187137,Uttar Pradesh
+249.0,Bahraich,186223,Uttar Pradesh
+250.0,Vellore,185803,Tamil Nadu
+251.0,Mahesana,184991,Gujarat
+252.0,Sambalpur,184000,Orissa
+253.0,Raiganj,183612,West Bengal
+254.0,Sirsa,182534,Haryana
+255.0,Danapur,182429,Bihar
+256.0,Serampore,181842,West Bengal
+257.0,Sultan Pur Majra,181554,Delhi
+258.0,Guna,180935,Madhya Pradesh
+259.0,Jaunpur,180362,Uttar Pradesh
+260.0,Panvel,180020,Maharashtra
+261.0,Shivpuri,179977,Madhya Pradesh
+262.0,Surendranagar Dudhrej,177851,Gujarat
+263.0,Unnao,177658,Uttar Pradesh
+264.0,Hugli,177259,West Bengal
+265.0,Alappuzha,174164,Kerala
+266.0,Kottayam,172878,Kerala
+267.0,Machilipatnam,169892,Andhra Pradesh
+268.0,Shimla,169578,Himachal Pradesh
+269.0,Adoni,166537,Andhra Pradesh
+270.0,Udupi,165401,Karnataka
+271.0,Tenali,164937,Andhra Pradesh
+272.0,Mancherial,163600,Telangana
+273.0,Saharsa,155175,Bihar
+274.0,Hindupur,151835,Andhra Pradesh
+275.0,Sasaram,147396,Bihar
+276.0,Hajipur,147126,Bihar
+277.0,Bhimavaram,142280,Andhra Pradesh
+278.0,Kumbakonam,140056,Tamil Nadu
+279.0,Dehri,137068,Bihar
+280.0,Madanapalle,135669,Andhra Pradesh
+281.0,Siwan,134458,Bihar
+282.0,Bettiah,132896,Bihar
+283.0,Guntakal,126270,Andhra Pradesh
+284.0,Srikakulam,125939,Andhra Pradesh
+285.0,Motihari,125183,Bihar
+286.0,Dharmavaram,121874,Andhra Pradesh
+287.0,Gudivada,118167,Andhra Pradesh
+288.0,Phagwara,117966,Punjab
+289.0,Narasaraopet,116250,Andhra Pradesh
+290.0,Suryapet,115250,Telangana
+291.0,Siddipet,114000,Bihar
+292.0,Tadipatri,108171,Andhra Pradesh
+293.0,Kishanganj,107076,Bihar
+294.0,Karaikudi,106714,Tamil Nadu
+295.0,Miryalaguda,109891,Telangana
+296.0,Jamalpur,105221,Bihar
+297.0,Kavali,104000,Andhra Pradesh
+298.0,Tadepalligudem,103906,Andhra Pradesh
+299.0,Amaravati,103000,Andhra Pradesh
+300.0,Buxar,102591,Bihar
+301.0,Jehanabad,102456,Bihar
+302.0,Aurangabad,101520,Bihar
+303.0,Gangtok,100286,Sikkim
