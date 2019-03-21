@@ -1,0 +1,1 @@
+To test the program, data(paragraphs) should be kept in "data.txt"
